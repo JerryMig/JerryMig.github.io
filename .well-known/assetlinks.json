@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "intro.personal.jerryche",
+    "sha256_cert_fingerprints":
+    ["39:1A:81:16:D8:AF:45:59:B6:F2:47:1F:06:AD:44:AE:CD:A6:5E:EB:A7:91:D0:65:3C:28:97:B0:F7:75:23:65"]
+  }
+}]
